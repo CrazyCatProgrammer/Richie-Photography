@@ -60,3 +60,5 @@ show up
 
 Copy and paste the server address (http://127.0.0.1:4000/) into your browser and VOILA. You are now viewing your personal website locally. Thus giving you the ability and opportunity to make it personal and professional before letting it loose for the world to see. Have fun!
 
+If you have issues or errors I recommend checking out jekyll's getting started locally documentation 
+[https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
